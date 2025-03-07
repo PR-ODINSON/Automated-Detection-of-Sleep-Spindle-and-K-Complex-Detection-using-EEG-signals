@@ -76,6 +76,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow torch torchv
 Contributions are welcome! If you’d like to improve this project:
 - Fork the repository.
 - Create a feature branch.
-- Submit a pull request with a detailed explanation of changes.
+- Submit a pull request with a detailed explanation of changes!
 
 
